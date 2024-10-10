@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "todo": "kuberan",
+      "name": "p",
+      "id": 2
+    },
+    {
+      "todo": "ece",
+      "id": 3
+    },
+    {
+      "todo": "B",
+      "id": 4
+    },
+    {
+      "todo": "kongu",
+      "id": 5
+    },
+    {
+      "todo": "engineering",
+      "id": 6
+    },
+    {
+      "todo": "hk",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
